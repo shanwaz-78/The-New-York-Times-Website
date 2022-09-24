@@ -1,0 +1,132 @@
+ul li{
+    display: inline;
+}
+ul{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.123) ;
+    margin-top:-1px;
+
+}
+#a1{
+margin-left: 30px;
+border:transparent;
+}
+#a2{
+margin-left: 10px;
+border: transparent;
+}
+#a3{
+   margin-left: 20px; 
+}
+
+#a3:hover{
+    background-color: black;
+}
+#a4{
+   margin-left: 280px;
+   font-family: 'Courier New', Courier, monospace cursive;
+}
+#a5{
+ margin-left: 310px;
+    background-color: rgb(136, 136, 245);
+}
+#a6{
+    margin-left: -1px;
+    background-color:rgb(136, 136, 245);
+    border: transparent;  
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.a1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    font-size: 33px;
+}
+
+.a2{
+    margin-left: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    margin-top: -19px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.192);
+}
+
+.a3{
+    margin-left: 393px;
+    margin-top: 20px;
+    transition: width 1s, height 1s, transform 4s;
+}
+
+.a3:hover{
+    transform: rotate(360deg);
+}
+
+.a8{
+    font-size: 17px;
+    margin-left: 400px;
+    margin-top: 1px;
+}
+
+.a4{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    border: 1px solid rgba(0, 0, 0, 0.281);
+    padding: 8px;
+}
+
+.a5{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    margin-top: 3px;
+}
+
+.a6{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+.a7{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    margin-top: 3px;
+    margin-top: 20px;
+}
+
+.a9{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    margin-top: 3px;
+    
+}
+
+.a10{
+    margin-left: 400px;
+    margin-top: 34px;
+}
+
+#a7{
+    font-size: 16px;
+    margin-left: 400px;
+    margin-top: 3px;
+}
+
+#a8{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    margin-top: 3px;
+}
+
+#a9{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    margin-top: 3px;
+}

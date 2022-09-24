@@ -1,0 +1,142 @@
+ul li{
+    display: inline;
+}
+ul{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.123) ;
+    margin-top: -1px;
+
+}
+#a1{
+margin-left: 30px;
+border:transparent;
+}
+#a2{
+margin-left: 10px;
+border: transparent;
+}
+#a3{
+   margin-left: 20px;
+}
+#a4{
+   margin-left: 200px;
+   font-family: 'Courier New', Courier, monospace cursive;
+}
+#a5{
+  margin-left: 310px;
+    background-color: rgb(136, 136, 245);
+}
+#a6{
+    margin-left: -1px;
+    background-color:rgb(136, 136, 245);
+    border: transparent;  
+    border-radius: 4px;
+    padding: 4px;
+}
+#a7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    font-size: 32px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-left: 12px;
+    margin-top: -25px;
+}
+#a8{
+    margin-left: -80px;
+    border: 1px solid rgba(0, 0, 0, 0.308);
+    border-radius: 50%;
+    padding: 4px;
+    margin-top: 22px;
+}
+#a8:hover{
+    background-color: rgba(0, 0, 255, 0.473);
+}
+#a9{
+    margin-left: 530px;
+    margin-top: 22px;
+    border: 1px solid rgba(0, 0, 0, 0.308);
+    border-radius: 50%;
+    padding: 4px;
+}
+#a9:hover{
+    background-color: rgba(0, 0, 255, 0.473);
+}
+#a10{
+    margin-left: -80px;
+    border: 1px solid rgba(0, 0, 0, 0.308);
+    border-radius: 50%;
+    padding: 5px;   
+}
+#a10:hover{
+    background-color: rgba(0, 0, 255, 0.473);
+}
+#a11{
+    margin-left: 420px;
+    margin-top: 20px;
+border: 1px solid rgba(0, 0, 0, 0.308);
+padding: 2px;
+transition: width 1s, height 1s, transform 4s;
+}
+#a11:hover{
+    transform: rotate(360deg);
+}
+#a12{
+    margin-top: 1px;
+    font-size: 15px;
+    margin-left: 72px;
+}
+#a13{
+ margin-left: 430px;
+}
+#a14{
+    font-size: 15px;
+    margin-left: -380px;
+    margin-top: -20px;
+    color: rgba(0, 0, 0, 0.712);
+}
+.a1{
+    margin-top: 30px;
+    margin-left: 52px;
+}
+.a2{
+    margin-top: 20px;
+    margin-left: 32px;
+}
+.a3{
+    margin-top: 20px;
+    margin-left: 52px;
+}
+.a4{
+    margin-left: 57px;
+    margin-top: 10px;
+}
+.a5{
+ margin-left: 395px;
+ border: 1px solid rgba(0, 0, 0, 0.425);
+ margin-right: 400px;
+}
+.a6{
+    margin-top: 22px;
+}
+.a7{
+    margin-top: 22px;
+    margin-left: -6px;
+}
+.a8{
+    margin-top: 22px;
+}
+.a9{
+    margin-top: 22px;
+    margin-left: -26px;
+}
+.a10{
+    margin-top: 22px;
+    margin-left: -10px;
+}
