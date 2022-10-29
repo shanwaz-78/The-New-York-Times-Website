@@ -85,7 +85,7 @@ p{
 }
 
 .a6{
-    margin-top: -280px;
+    margin-top: -310px;
     
 }
 .a7{
@@ -107,7 +107,7 @@ p{
 .a9{
     margin-top: 79px;
     font-size: 22px;
-    margin-right: 99px;
+    margin-right: 40px;
     float: right;
     border-left: 1px solid rgba(0, 0, 0, 0.274);
     border-top: 1px solid rgba(0, 0, 0, 0.26);
@@ -119,16 +119,16 @@ p{
 }
 
 .a10{
-    margin-left: 1160px;
+    margin-left: 1230px;
     margin-top: -15px;
 }
 
 .a11{
-    margin-left: 1015px;
+    margin-left: 1080px;
     margin-top: -105px;
     border-left: 1px solid rgba(0, 0, 0, 0.274);
     border-bottom: 1px solid rgba(0, 0, 0, 0.253);
-    margin-right: 92px;
+    margin-right: 72px;
     border-top: 1px solid rgba(0, 0, 0, 0.247);
 }
 
@@ -147,14 +147,14 @@ p{
 
 .a13{
     float: right;
-    margin-right: 80px;
-    margin-top: -60px;
+    margin-right: -280px;
+    margin: top 100px;
 }
 
 .a14{
     font-size: 18p; 
     float: right;
-    margin-right: -490px;
+    margin-right: -259px;
     margin-top: 230px;
     border-left: 1px solid rgba(0, 0, 0, 0.274);
     border-top: 1px solid rgba(0, 0, 0, 0.253);
